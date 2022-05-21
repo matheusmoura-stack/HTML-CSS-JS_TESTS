@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+    background-image: url("../imagens/titioavo.jpg");
+    background-repeat: repeat;
+    background-size: 50%;
+    font-family: 'Ital';
+    color: wheat
+} 
+main{
+    background-color: rgba(0,0,0,0.6);
+    padding: 5px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.logo /*classe*/, .manchete, .headline{
+    margin: 0;
+    text-align: center;
+}
+.video{
+    margin:0;
+    text-align: center;
+}
+article{
+    text-align: center;
+    font-size: normal;
+    font-size: 20px;
+    color: rgb(250, 200, 225)
+}
